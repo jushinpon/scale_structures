@@ -1,0 +1,8 @@
+/data4scale 
+/deformed_data 
+log.lammps
+test*.pl
+*.data
+*.dat
+*.txt
+**/
